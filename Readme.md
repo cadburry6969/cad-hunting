@@ -1,3 +1,5 @@
+!! THIS IS NOT MAITAINED ANY MORE YOU CAN TRY THE MAITAINED VERSION BY swkeep https://github.com/swkeep/keep-hunting !!
+
 	-- ADD THESE LINES IN qb-core/shared.lua
 	-- UNDER ITEMS SECTION
 
